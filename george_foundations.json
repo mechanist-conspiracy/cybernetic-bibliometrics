@@ -1,0 +1,473 @@
+{
+	"title" : "The Foundations of Cybernetics",
+	"author": "George, F.H.",
+	"pages" : 286,
+	"year" : 1977,
+	"ISBN" : "0677053401",
+	"subject index" : [
+		{
+			"entry" : "Accumulator",
+			"pages": [105]
+		},
+		{
+			"entry" : "Adaptive behaviour",
+			"pages": [3]
+		},
+		{
+			"entry" : "Addition theorem",
+			"pages": [247]
+		},
+		{
+			"entry" : "Algorithms",
+			"pages": [23,57,65,85,114]
+		},
+		{
+			"entry" : "Analog computer",
+			"pages": [29,34,103]
+		},
+		{
+			"entry" : "Analogy",
+			"pages": [203,206]
+		},
+		{
+			"entry" : "Animal behaviour",
+			"pages": [[135,151]]	
+		},
+		{
+			"entry" : "Application",
+			"pages": [60]
+		},
+		{
+			"entry" : "Argument, deductive",
+			"pages": [194]
+		},
+		{
+			"entry" : "Argument, formal",
+			"pages": [194]
+		},
+		{
+			"entry" : "Argument, relational",
+			"pages": [194]
+		},
+		{
+			"entry" : "Argument, syllogistic form of",
+			"pages": [45]
+		},
+		{
+			"entry" : "Argument, valid",
+			"pages": [194]
+		},
+		{
+			"entry" : "Artificial hand",
+			"pages": [243]
+		},
+		{
+			"entry" : "Artificial intelligence",
+			"pages": [33,[183,192],203,261]
+		},
+		{
+			"entry" : "Artificial intelligence, flow-chart",
+			"pages": [192]
+		},
+		{
+			"entry" : "Artificial intelligence, programming for",
+			"pages": [[188,190]]
+		},
+		{
+			"entry" : "Artificial intelligence, recent developments in",
+			"pages": [191]
+		},
+		{
+			"entry" : "Artificial intelligence, simulation of",
+			"pages": [186]
+		},
+		{
+			"entry" : "Artificial intelligence, synthesis of",
+			"pages": [186]
+		},
+		{
+			"entry" : "Ashby's model",
+			"pages": [34]
+		},
+		{
+			"entry" : "Assembler code",
+			"pages": [109]
+		},
+		{
+			"entry" : "Association net",
+			"pages": [[96,98]]
+		},
+		{
+			"entry" : "Autocodes",
+			"pages": [109,110,184]
+		},
+		{
+			"entry" : "Automata",
+			"pages": [262]
+		},
+		{
+			"entry" : "Automata, and information theory",
+			"pages": [134]
+		},
+		{
+			"entry" : "Automata, and psychology",
+			"pages": [[141,143]]
+		},
+		{
+			"entry" : "Automata, continuous",
+			"pages": [67]
+		},
+		{
+			"entry" : "Automata, discrete",
+			"pages": [67]
+		},
+		{
+			"entry" : "Automata, finite",
+			"pages": [10,11,43,65,71],
+			"see also": "Neural nets"
+		},
+		{
+			"entry" : "Automata, fixed",
+			"pages": [66]
+		},
+		{
+			"entry" : "Automata, general (non real-time)",
+			"pages": [72]
+		},
+		{
+			"entry" : "Automata, growing",
+			"pages": [66]
+		},
+		{
+			"entry" : "Automata, growth",
+			"pages": [66]
+		},
+		{
+			"entry" : "Automata, infinite",
+			"pages": [67,[75,84]]
+		},
+		{
+			"entry" : "Automata, infinite past",
+			"pages": [70]
+		},
+		{
+			"entry" : "Automata, linear-bounded",
+			"pages": [72]
+		},
+		{
+			"entry" : "Automata, multi-tape",
+			"pages": [72]
+		},
+		{
+			"entry" : "Automata, non-synchronous",
+			"pages": [67]
+		},
+		{
+			"entry" : "Automata, one-way",
+			"pages": [71,72]
+		},
+		{
+			"entry" : "Automata, real-time",
+			"pages": [72]
+		},
+		{
+			"entry" : "Automata, self-reproducing",
+			"pages": [74]
+		},
+		{
+			"entry" : "Automata, stochastic",
+			"pages": [129, 131]
+		},
+		{
+			"entry" : "Automata, structure and behaviour",
+			"pages": [70]
+		},
+		{
+			"entry" : "Automata, synchronous",
+			"pages": [67]
+		},
+		{
+			"entry" : "Automata, tape",
+			"pages": [10,43,65,71,85]
+		},
+		{
+			"entry" : "Automata, theory",
+			"pages": [11,[65,74]]
+		},
+		{
+			"entry" : "Automata, theory, and cybernetics",
+			"pages": [[72,73]]
+		},
+		{
+			"entry" : "Automata, theory, current research",
+			"pages": [73]
+		},
+		{
+			"entry" : "Automata, two-tape",
+			"pages": [71,72]
+		},
+		{
+			"entry" : "Automata, two-way",
+			"pages": [71,72]
+		},
+		{
+			"entry" : "Automata, universal",
+			"pages": [192]
+		},
+		{
+			"entry" : "Automatic control systems",
+			"pages": [14]
+		},
+		{
+			"entry" : "Automation",
+			"pages": [43]
+		},
+		{
+			"entry" : "Automation, finite",
+			"pages": [67]
+		},
+		{
+			"entry" : "Automation, isolated finite",
+			"pages": [70]
+		},
+		{
+			"entry" : "Axiomatic system",
+			"pages": [83]
+		},
+		{
+			"entry" : "Axioms",
+			"pages": [[54,55],58]
+		},
+		{
+			"entry" : "Basal ganglia",
+			"pages": [154]
+		},
+		{
+			"entry" : "Base",
+			"pages": [94]
+		},
+		{
+			"entry" : "Bayes odd-likelihood ratio form",
+			"pages": [249]
+		},
+		{
+			"entry" : "Bayes Rule",
+			"pages": [[248,250]]
+		},
+		{
+			"entry" : "Bayesian models",
+			"pages": [250]
+		},
+		{
+			"entry" : "Behaviour, vitalistic view of",
+			"pages": [138],
+			"see also": "Human behaviour"
+		},
+		{
+			"entry" : "Behaviour model",
+			"pages": [149]
+		},
+		{
+			"entry" : "Behaviour problems",
+			"pages": [153]
+		},
+		{
+			"entry" : "Behaviour theories",
+			"pages": [152]
+		},
+		{
+			"entry" : "Behaviourism",
+			"pages": [7,138]
+		},
+		{
+			"entry" : "Belief formation",
+			"pages": [199]
+		},
+		{
+			"entry" : "Binary code",
+			"pages": [105,108]
+		},
+		{
+			"entry" : "Binary system",
+			"pages": [121]
+		},
+		{
+			"entry" : "Bio-cybernetics",
+			"pages": [152]
+		},
+		{
+			"entry" : "Biological sciences",
+			"pages": [23]
+		},
+		{
+			"entry" : "Bits (binary digits)",
+			"pages": [121,122]
+		},
+		{
+			"entry" : "Black box",
+			"pages": [161,167]
+		},
+		{
+			"entry" : "B-net",
+			"pages": [128,143]
+		},
+		{
+			"entry" : "Boolean algebra",
+			"pages": [48,86,87]
+		},
+		{
+			"entry" : "Brain",
+			"pages": [104, [153,155]]
+		},
+		{
+			"entry" : "Brain, as data-processing system",
+			"pages": [163]
+		},
+		{
+			"entry" : "Brain, computer simulations",
+			"pages": [[165,66]]
+		},
+		{
+			"entry" : "Brain, electrical activity of",
+			"pages": [159]
+		},
+		{
+			"entry" : "Brain, localisation",
+			"pages": [164]
+		},
+		{
+			"entry" : "Brain, models",
+			"pages": [[163,167]]
+		},
+		{
+			"entry" : "Brain, speech areas",
+			"pages": [165]
+		},
+		{
+			"entry" : "Brain-like phenomena",
+			"pages": [40]
+		},
+		{
+			"entry" : "Branching programme",
+			"pages": [176]
+		},
+		{
+			"entry" : "Business science",
+			"pages": [12]
+		},
+		{
+			"entry" : "C.A.I (computer assisted instruction)",
+			"pages": [167,[174,182]]
+		},
+		{
+			"entry" : "Calculators",
+			"pages": [103]
+		},
+		{
+			"entry" : "Calculus, functional",
+			"pages": [[58,60], 195]
+		},
+		{
+			"entry" : "Calculus, of lamda conversion",
+			"pages": [61]
+		},
+		{
+			"entry" : "Calculus, of relations",
+			"pages": [[61,63]]
+		},
+		{
+			"entry" : "Calculus, probability",
+			"pages": [197,[247,249]]
+		},
+		{
+			"entry" : "Calculus, propositional",
+			"pages": [],
+			"see" : "Propositional calculus"
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		},
+		{
+			"entry" : "",
+			"pages": []
+		}
+	],
+	"author index" : [
+		{
+			"entry" : "",
+			"pages": []	
+		}
+	],
+	"bibliography" : [
+		{
+			"title" : "",
+			"year"  : "",
+			"authors" : []
+		}
+	]
+}
