@@ -385,8 +385,350 @@
 			"see" : "Propositional calculus"
 		},
 		{
-			"entry" : "",
-			"pages": []
+			"entry" : "Causal relations",
+			"pages": [201]
+		},
+		{
+			"entry" : "Cell assembly, Hebb's theory of",
+			"pages": [160]
+		},
+		{
+			"entry" : "Cerebral cortex",
+			"pages": [[155,157],166]
+		},
+		{
+			"entry" : "Chaining",
+			"pages": [196]
+		},
+		{
+			"entry" : "Channel capacity",
+			"pages": [123]
+		},
+		{
+			"entry" : "Chapman's self-organising system",
+			"pages": [37-38]
+		},
+		{
+			"entry" : "Chess-playing machines",
+			"pages": [5]
+		},
+		{
+			"entry" : "Classes",
+			"pages": [48,49,51]
+		},
+		{
+			"entry" : "Classification model",
+			"pages": [31,38]
+		},
+		{
+			"entry" : "Classification system",
+			"pages": [[37,39]]
+		},
+		{
+			"entry" : "Closed-loop systems",
+			"pages": [[14,27],29,168,169,[241,242]]
+		},
+		{
+			"entry" : "C.M.I. (computer managed instruction)",
+			"pages": [168]
+		},
+		{
+			"entry" : "Coalitions",
+			"pages": [258]
+		},
+		{
+			"entry" : "C.O.I (computer organised instruction)",
+			"pages": [168]
+		},
+		{
+			"entry" : "Combinators",
+			"pages": [60]
+		},
+		{
+			"entry" : "Communication",
+			"pages": [209]
+		},
+		{
+			"entry" : "Communication channel",
+			"pages": [120]
+		},
+		{
+			"entry" : "Communication theory",
+			"pages": [],
+			"see": "Information theory"
+		},
+		{
+			"entry" : "Compilers",
+			"pages": [110,111,218,233]
+		},
+		{
+			"entry" : "Completeness",
+			"pages": [58,83]
+		},
+		{
+			"entry" : "Complex systems, control processes of",
+			"pages": [74]
+		},
+		{
+			"entry" : "Composition",
+			"pages": [82]
+		},
+		{
+			"entry" : "Computation",
+			"pages": [77]
+		},
+		{
+			"entry" : "Computer assisted instruction (C.A.I.)",
+			"pages": [167,[174,182]]
+		},
+		{
+			"entry" : "Computer languages",
+			"pages": [[107,111],121]
+		},
+		{
+			"entry" : "Computer managed instruction (C.M.I.)",
+			"pages": [168]
+		},
+		{
+			"entry" : "Computer organised instruction (C.O.I.)",
+			"pages": [168]
+		},
+		{
+			"entry" : "Computer programs",
+			"pages": [37,106,107,118,186]
+		},
+		{
+			"entry" : "Computer store",
+			"pages": [238]
+		},
+		{
+			"entry" : "Computers",
+			"pages": [90]
+		},
+		{
+			"entry" : "Computers, inference making on",
+			"pages": [[193,207]]
+		},
+		{
+			"entry" : "Computers, types of",
+			"pages": [103],
+			"see also": ["Analog", "Digital"]
+		},
+		{
+			"entry" : "Concept formation",
+			"pages": [98]
+		},
+		{
+			"entry" : "Conditional probability",
+			"pages": [[31,32],39,[126,127],249]
+		},
+		{
+			"entry" : "Conditioned reflexes",
+			"pages": [139,162]
+		},
+		{
+			"entry" : "Conditioned responses",
+			"pages": [162]
+		},
+		{
+			"entry" : "Conditioning theory",
+			"pages": [[139,141]]
+		},
+		{
+			"entry" : "Consistency",
+			"pages": [58,83]
+		},
+		{
+			"entry" : "Control processes of complex system",
+			"pages": [74]
+		},
+		{
+			"entry" : "Conversation machine",
+			"pages": [[219,22]]
+		},
+		{
+			"entry" : "Cora",
+			"pages": [31]
+		},
+		{
+			"entry" : "Cortical localisation",
+			"pages": [[160,162]]
+		},
+		{
+			"entry" : "Credibility",
+			"pages": [201]
+		},
+		{
+			"entry" : "Cybernetics, background of",
+			"pages": [2,20]
+		},
+		{
+			"entry" : "Cybernetics, basic features of",
+			"pages": [21]
+		},
+		{
+			"entry" : "Cybernetics, basic hypotheses",
+			"pages": [19]
+		},
+		{
+			"entry" : "Cybernetics, definition",
+			"pages": [1,2,15]
+		},
+		{
+			"entry" : "Cybernetics, fundamentals of",
+			"pages": [[1,13]]
+		},
+		{
+			"entry" : "Cybernetics, inter-disciplinary nature of",
+			"pages": [20]
+		},
+		{
+			"entry" : "Cybernetics, next stages in",
+			"pages": [[261,265]]
+		},
+		{
+			"entry" : "Cybernetics, principal features of",
+			"pages": [12]
+		},
+		{
+			"entry" : "Cybernetics, research",
+			"pages": [[11,13],26]
+		},
+		{
+			"entry" : "Cybernetics, sub-divisions of",
+			"pages": [13]
+		},
+		{
+			"entry" : "Cybernetics, use of term",
+			"pages": [265]
+		},
+		{
+			"entry" : "Decimal code",
+			"pages": [105,108]
+		},
+		{
+			"entry" : "Decimal system",
+			"pages": [121]
+		},
+		{
+			"entry" : "Decision processing",
+			"pages": [23,57,58,116,192,202,[250-253],259]
+		},
+		{
+			"entry" : "Definite event",
+			"pages": [93]
+		},
+		{
+			"entry" : "Dependency grammar",
+			"pages": [215]
+		},
+		{
+			"entry" : "Dependency logic",
+			"pages": [222]
+		},
+		{
+			"entry" : "Designation",
+			"pages": [63,211]
+		},
+		{
+			"entry" : "Desirability matrix",
+			"pages": [250,251]
+		},
+		{
+			"entry" : "Detachment",
+			"pages": [196]
+		},
+		{
+			"entry" : "Deterministic machine",
+			"pages": [66]
+		},
+		{
+			"entry" : "Deterministic model",
+			"pages": [34]
+		},
+		{
+			"entry" : "Diadic functional variable",
+			"pages": [58]
+		},
+		{
+			"entry" : "Digital computer",
+			"pages": [11,29,41,70,72,85,91,95,[102,118],262]
+		},
+		{
+			"entry" : "Digital computer, and automata theory",
+			"pages": [[116,118]]
+		},
+		{
+			"entry" : "Digital computer, block diagram",
+			"pages": [105]
+		},
+		{
+			"entry" : "Digital computer, codes",
+			"pages": [105,107,108]
+		},
+		{
+			"entry" : "Digital computer, components",
+			"pages": [105]
+		},
+		{
+			"entry" : "Digital computer, encoding and decoding",
+			"pages": [109]
+		},
+		{
+			"entry" : "Digital computer, features of",
+			"pages": [103]
+		},
+		{
+			"entry" : "Digital computer, game-playing",
+			"pages": [113]
+		},
+		{
+			"entry" : "Digital computer, general purpose",
+			"pages": [117]
+		},
+		{
+			"entry" : "Digital computer, history of",
+			"pages": [104]
+		},
+		{
+			"entry" : "Digital computer, instructions",
+			"pages": [106]
+		},
+		{
+			"entry" : "Digital computer, mechanical",
+			"pages": [104]
+		},
+		{
+			"entry" : "Digital computer, natural language facility",
+			"pages": [116]
+		},
+		{
+			"entry" : "Digital computer, number of addresses",
+			"pages": [104]
+		},
+		{
+			"entry" : "Digital computer, one-address",
+			"pages": [105]
+		},
+		{
+			"entry" : "Digital computer, parallel",
+			"pages": [104]
+		},
+		{
+			"entry" : "Digital computer, role in cybernetics",
+			"pages": [102]
+		},
+		{
+			"entry" : "Digital computer, serial",
+			"pages": [104]
+		},
+		{
+			"entry" : "Digital computer, three-address",
+			"pages": [105]
+		},
+		{
+			"entry" : "Digital computer, two-address",
+			"pages": [105]
 		},
 		{
 			"entry" : "",
@@ -404,58 +746,6 @@
 			"entry" : "",
 			"pages": []
 		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		},
-		{
-			"entry" : "",
-			"pages": []
-		}
 	],
 	"author index" : [
 		{
