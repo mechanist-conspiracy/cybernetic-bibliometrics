@@ -16,10 +16,6 @@ Lerner. _Fundamentals of Cybernetics_.
 
 **Tier two**
 
-Greniewski. _Cybernetics Without Mathematics_.
-
-Pamely-Evens. _An Introduction to Industrial Cybernetics and Instrumentation_.
-
 George. _Cybernetics and Biology_.
 
 George. _Cybernetics_.
@@ -28,4 +24,14 @@ Weiner. _Cybernetics_.
 
 Pask. _An Approach to Cybernetics_.
 
+
+**Tier three**
+
 Lange. _Introduction to Economic Cybernetics_.
+
+Arbib. _The Metaphorical Brain_.
+
+Greniewski. _Cybernetics Without Mathematics_.
+
+Pamely-Evens. _An Introduction to Industrial Cybernetics and Instrumentation_.
+
